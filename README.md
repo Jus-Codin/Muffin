@@ -31,3 +31,7 @@ This is still rather insecure and I don't recommend using it as an actual encryp
 ## Limitations
 - Only supports images with 3 channels i.e. RGB
 - Current implementation is not optimised, especially the encoder
+
+## To-Do
+- Improve current implementation
+- Implement running as a command
